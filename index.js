@@ -19,27 +19,22 @@ const songs = [
     {
         path: 'assets/aqua.mp3',
         displayName: 'Aqua Regia',
-        cover: 'assets/1.jpg',
+        cover: 'assets/aqua-regia-pic.jpg',
         artist: 'Sleep Token',
     },
     {
         path: 'assets/chokehold.mp3',
         displayName: 'Chokehold',
-        cover: 'assets/2.jpg',
+        cover: 'assets/chokehold-pic.jpg',
         artist: 'Sleep Token',
     },
     {
-        path: 'assets/eletebota.mp3',
-        displayName: 'Ele te bota',
-        cover: 'assets/.jpg',
-        artist: 'Mc Mazzie',
-    },
-    {
-        path: '',
-        displayName: 'teste',
-        cover: 'assets/.jpg',
-        artist: 'teste',
+        path: 'assets/heart.mp3',
+        displayName: 'Heart Of Darkness',
+        cover: 'assets/heart-of-darkness-pic.jpg',
+        artist: 'Grim Salvo',
     }
+    
 ];
 
 // criei uma função para carregar a música a ser tocada
